@@ -3,11 +3,11 @@ package main
 import (
     "fmt"
 
-    "example.com/greetings"
+    "github.com/antoniocarelli/GoLang_curso/tree/Tutorial_2/greetings"
 )
 
 func main() {
     // Get a greeting message and print it.
-    message := greetings.Hello("Gladys")
+    message := greetings.Hello("Carelli")
     fmt.Println(message)
 }
