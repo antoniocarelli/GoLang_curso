@@ -1,4 +1,4 @@
-package GoLang_curso/greetings
+package greetings
 
 import "fmt"
 
